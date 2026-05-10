@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 # Hi, I’m Juwan J.
 
@@ -25,7 +25,7 @@ I am currently using **UFC data** as a proxy for high-stakes, real-world environ
 
 ---
 
-### 🔭 Currently Exploring
+### Currently Exploring
 
 * **Mechanistic Interpretability:** Understanding how individual neurons in LLMs represent features.
 * **Scalable Oversight:** Building AI systems that can help humans supervise other complex AI systems.
@@ -33,7 +33,7 @@ I am currently using **UFC data** as a proxy for high-stakes, real-world environ
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 * **LinkedIn:** [Juwan Johnson](https://www.linkedin.com/in/juwan-johnson-278b51326/)
 * **Email:** Juwanjay12@gmail.com
@@ -42,7 +42,7 @@ I am currently using **UFC data** as a proxy for high-stakes, real-world environ
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
